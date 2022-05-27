@@ -6,3 +6,4 @@ The project which contains functionality of visualisation interactive ads within
 
 ### Packages
 - [JSON .NET for Unity](https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347#description)
+- [Text Mesh Pro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html)
