@@ -3,7 +3,7 @@ The project which contains functionality of visualisation interactive ads within
 
 ### How To Use
 - Open project using [Unity 2019.4.39f1](https://unity3d.com/get-unity/download/archive) Editor
-- Open SampleScene
+- Open [SampleScene.unity](https://github.com/Kleping/3d-video-ads/blob/develop/Assets/Scenes/SampleScene.unity)
 - Play scene
 
 ### Requirements
@@ -15,4 +15,4 @@ The project which contains functionality of visualisation interactive ads within
 
 ### Notes
 - Cached downloaded videos are storing in [Application.persistentDataPath](https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html)
-- An entry point of the application is the App.cs class
+- An entry point of the application is the [App.cs](https://github.com/Kleping/3d-video-ads/blob/develop/Assets/Scripts/Core/App.cs) class
